@@ -1,16 +1,17 @@
 # flutter_portfolio
 
-A new Flutter project.
+## Wrap-up
 
-## Getting Started
+### What I built in this Workshop:
 
-This project is a starting point for a Flutter application.
+- A simple Flutter Web App (Personal Portfolio Card App)
+- Create Flutter User interfaces with ease
+- Common Flutter Layout strategies using just core widgets
+- Implementing Explicit Animations
+- Import network images
+- Using Material Icon fonts
+- Hosting your Flutter Web App in the Google Cloud via Firebase Hosting
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/kursat-ozturk/flutter_portfolio/assets/69029656/c6ab091f-7b81-4739-9724-de93fff3e68f
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
